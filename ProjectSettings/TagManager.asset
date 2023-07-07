@@ -4,9 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - center
-  - right
-  - left
+  - 7
+  - tyery
+  - budou
+  - beru
+  - suika
   layers:
   - Default
   - TransparentFX
