@@ -15,7 +15,6 @@ public class decision : MonoBehaviour
     mawasu _mawasu;
 
     [SerializeField] Text _text;
-    [SerializeField] score score;
     float _timer = 0;
 
     bool _Score;
