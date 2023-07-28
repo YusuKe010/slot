@@ -46,7 +46,7 @@ public class mawasu : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update ()
+    void FixedUpdate ()
     {
             this.reel1.transform.Translate(0, speed1, 0);
             this.reel2.transform.Translate(0, speed2, 0);
